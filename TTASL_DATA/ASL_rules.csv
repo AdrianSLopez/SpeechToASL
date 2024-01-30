@@ -1,0 +1,11 @@
+"RULE","RULE_ID","ASL_SIGN_ID","ACTION_DESCR","RULE_DESCR"
+"POS-SELF", 0, 1,"Sign towards chest","(Possesive - self): Shows something belongs to self""
+"POS-OTHER", 1, 1,"Sign away from chest","(Possesive - other): Shows something belongs to other"
+"PP-SELF",2,27,"Point sign towards chest","(Personal pronouns - self): ME, WE, I, US"
+"PP-OTHER",3,27,"Point sign away from chest","(Personal pronouns - other): YOU/THEY/HIM/HER/THEM/IT"
+"GRTNG",4,
+
+
+
+"Hi Dave. "
+
